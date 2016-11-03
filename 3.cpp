@@ -1,6 +1,11 @@
+//3
 #include <iostream>
+<<<<<<< HEAD
 //345
 #include <math.h>
+=======
+//#include <math.h>
+>>>>>>> 218c46e7f05c12fbe72f644a44acb05f5ab4e84b
 #include <windows.h>
 using namespace std;
 
