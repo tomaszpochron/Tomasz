@@ -16,7 +16,7 @@ int xliniowe(int c, int b)
 main ()
 
 {
-     
+
 int a,b,c,d;
 cout<<"Rownanie kwadratowe:\n a*x*x+b*x+c=0 \n";
 cout<<"Podaj a: ";
@@ -44,7 +44,8 @@ if (a==0)
        d=delta(a,b,c);
        cout<<"Delta rownania wynosi:"<<d;
        cout<<"\n";
-       
+
 }
 system ("pause");
 }
+//6

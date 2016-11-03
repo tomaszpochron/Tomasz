@@ -10,7 +10,7 @@ double T[M];
 int czytaj()
 {
     int i;
-   
+
     do
     {
         printf("Dla wielomianu a :\n");
@@ -42,3 +42,4 @@ int main()
     scanf("%d",&N);
     return 0;
 }
+//7

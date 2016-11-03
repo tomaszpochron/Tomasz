@@ -30,3 +30,4 @@ cout << "Pierwiastek z liczby1" << endl;
 
 Sleep(10000);
 }
+//3

@@ -6,12 +6,12 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-   
+
     int tab[20];
     srand(time(0));
     cout<<"Wygenerowalem tablice liczb: \n";
     for(int i=0;i<20;i++)
-   
+
     {
     tab [i]=rand()%20;
     cout<< tab[i]<<"\n\n";
@@ -39,16 +39,16 @@ for(int i=0;i<20;i++)
         if(tab[i]<10)
         mniejszych++;
         }
-       
+
         cout<<"\nMax: "<<max;
         cout<<"\nmin: "<<min;
         cout<<"\nwiekszych: "<<wiekszych;
         cout<<"\nmniejszych: "<<mniejszych;
         cout<<" \n\n";
-       
-       
+
+
 
     system("PAUSE");
     return EXIT_SUCCESS;
 }
- 
+ //5

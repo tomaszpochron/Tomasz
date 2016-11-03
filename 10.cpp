@@ -28,22 +28,22 @@ for (int q = 0; q < n ; ++q){
     for (j = i-1; j > 0; --j)
       wiersz[j] = wiersz[j-1]+wiersz[j];
   }
- 
+
   for (int j = 0; j < q+1; j++)
   {
      cout << wiersz[j] << " ";
      wpisz << wiersz[j]<< " ";
-   
+
   }
   cout<< "\n";
   wpisz << "\n ";
 }
- 
+
   cout <<endl;
   wpisz.close();
   cout <<endl;
   cin >> n;
- 
+
 }
- 
+ //10
 
