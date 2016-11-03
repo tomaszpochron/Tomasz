@@ -1,6 +1,6 @@
 #include <cstdlib>
 #include <iostream>
-
+//to jest program
 char
 *J[]=   {"","jeden", "dwa", "trzy","cztery", "piec", "szesc", "siedem", "osiem", "dziewiec", "dziesiec", "jedenescie", "dwanascie", "trzynascie", "czternascie", "pietnascie", "szesnascie", "siedemnascie", "osiemnascie", "dziewietnascie"},
 *D[]=   {"","dziesiec", "dwadziescia", "trzydziesci", "czterdziesci", "piedziesiat", "szescdziesiat", "siedemdziesiat", "osiemdziesiat", "dziewiecdziesiat"},
@@ -36,7 +36,7 @@ int zam(int l)
               j=(t%10);
               printf("s³ownie %s %s %s\n\n",S[s],D[d],J[j]);
         }
-     
+
         return 0;
 }
 
@@ -58,7 +58,7 @@ int main()
                 }while(p!='t'&&p!='n');
          printf("\n");
          }while(p=='t');
-                   
+
          scanf("%s",&p);
          return 0;
 }
