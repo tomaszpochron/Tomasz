@@ -1,9 +1,10 @@
+//8
 #include<iostream>
 #include<math.h>
 using namespace std;
 
 float odA[3][3], dop[3][3], A[3][3]={1,2,3,2,1,4,2,1,5};
-int i, j;                          
+int i, j;
 
 main()
 {
@@ -24,8 +25,8 @@ cout<<"\n transponowana m. A";
          {cout<<"\n\n";
          for(j=0;j<3;j++)
          {cout<<"    "<<A[j][i];}}                        //[i][j] -> [j][i] - transponowanie macierzy A
-           
-           
+
+
 float detA=(A[0][0]*A[1][1]*A[2][2])+(A[0][1]*A[1][2]*A[2][0])+(A[0][2]*A[1][0]*A[2][1])       //wyliczenie wyznacznika macierz A
         -(A[2][0]*A[1][1]*A[0][2])-(A[2][1]*A[1][2]*A[0][0])-(A[2][2]*A[1][0]*A[0][1]);
 
