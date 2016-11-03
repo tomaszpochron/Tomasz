@@ -1,3 +1,4 @@
+//7
 #include <cstdlib>
 #include <iostream>
 #include <math.h>
@@ -10,7 +11,7 @@ double T[M];
 int czytaj()
 {
     int i;
-   
+
     do
     {
         printf("Dla wielomianu a :\n");
