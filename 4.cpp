@@ -1,4 +1,5 @@
 #include <cstdlib>
+//4
 #include <iostream>
 //to jest program
 char
