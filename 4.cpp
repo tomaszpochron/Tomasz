@@ -1,6 +1,6 @@
 #include <cstdlib>
 #include <iostream>
-
+//to jest program
 char
 *J[]=   {"","jeden", "dwa", "trzy","cztery", "piec", "szesc", "siedem", "osiem", "dziewiec", "dziesiec", "jedenescie", "dwanascie", "trzynascie", "czternascie", "pietnascie", "szesnascie", "siedemnascie", "osiemnascie", "dziewietnascie"},
 *D[]=   {"","dziesiec", "dwadziescia", "trzydziesci", "czterdziesci", "piedziesiat", "szescdziesiat", "siedemdziesiat", "osiemdziesiat", "dziewiecdziesiat"},
