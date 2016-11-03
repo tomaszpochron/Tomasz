@@ -6,7 +6,7 @@ char
 *D[]=   {"","dziesiec", "dwadziescia", "trzydziesci", "czterdziesci", "piedziesiat", "szescdziesiat", "siedemdziesiat", "osiemdziesiat", "dziewiecdziesiat"},
 *S[]=   {"","sto", "dwiescie", "trzysta", "czterysta", "piecset", "szecset", "siedemset", "osiemset", "dziewiecset"};
 
-
+//wow
 int czytaj()
 {
     int l;
@@ -36,7 +36,7 @@ int zam(int l)
               j=(t%10);
               printf("s³ownie %s %s %s\n\n",S[s],D[d],J[j]);
         }
-     
+
         return 0;
 }
 
@@ -58,7 +58,7 @@ int main()
                 }while(p!='t'&&p!='n');
          printf("\n");
          }while(p=='t');
-                   
+
          scanf("%s",&p);
          return 0;
 }
