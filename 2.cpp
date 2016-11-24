@@ -38,6 +38,13 @@ system("color 02");
              }
 
 
+
+
+
+
+
+
+
     cout << "Wytrzymales? Zakonczyc? T/N";
     char znak;
     znak = getch();
