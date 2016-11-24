@@ -7,6 +7,11 @@ char
 *D[]=   {"","dziesiec", "dwadziescia", "trzydziesci", "czterdziesci", "piedziesiat", "szescdziesiat", "siedemdziesiat", "osiemdziesiat", "dziewiecdziesiat"},
 *S[]=   {"","sto", "dwiescie", "trzysta", "czterysta", "piecset", "szecset", "siedemset", "osiemset", "dziewiecset"};
 
+
+
+
+
+
 //wow
 int czytaj()
 {
