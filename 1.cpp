@@ -12,6 +12,8 @@ float bmi;
 cout << "Podaj swoj wzrost(cm): ";
 cin >> wzrost;
 
+
+
 while(wzrost < 40 or wzrost > 300)
 {
    cout << "Wzrost nieprawidlowy: Podaj ponownie: ";
