@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <ctime>
-
+#include <stdio.h>
 using namespace std;
 
 int main(int argc, char *argv[])
@@ -51,4 +51,4 @@ for(int i=0;i<20;i++)
     system("PAUSE");
     return EXIT_SUCCESS;
 }
- //5
+//5
