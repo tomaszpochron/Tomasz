@@ -9,6 +9,9 @@
 #include <windows.h>
 using namespace std;
 
+
+   
+
 int main()
 {
     int liczba1, liczba2, pierwiastek1, pierwiastek2;
