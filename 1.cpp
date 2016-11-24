@@ -5,6 +5,9 @@
 int main()
 {
 
+
+
+
     using namespace std;
 int waga, wzrost;
 float bmi;
