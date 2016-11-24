@@ -16,7 +16,10 @@ int main()
 {
     int liczba1, liczba2, pierwiastek1, pierwiastek2;
     cout << "Podaj pierwsza liczbe: ";
-    
+   
+
+
+
     
     cin >> liczba1;
     cout << "Podaj druga liczbe:";
