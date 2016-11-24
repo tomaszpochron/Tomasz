@@ -43,7 +43,10 @@ system("color 02");
     znak = getch();
     if(znak != 't')
     {
-    system("cls");
+
+
+
+system("cls");
         goto start;
             }
  return 0;
