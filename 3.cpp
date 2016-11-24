@@ -19,7 +19,10 @@ int main()
     cin >> liczba1;
     cout << "Podaj druga liczbe:";
     cin >> liczba2;
-     pierwiastek1 = sqrt (liczba1);
+
+
+
+pierwiastek1 = sqrt (liczba1);
 cout << "Dodawanie: "
      << liczba1 + liczba2 << endl;
 cout << "Odejmowanie: "
